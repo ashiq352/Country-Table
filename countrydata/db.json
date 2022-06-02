@@ -1,0 +1,16 @@
+{
+  "country": [
+    {
+      "country_name": "US",
+      "city_name": "New-York",
+      "population": "189675895",
+      "id": 1
+    },
+    {
+      "country_name": "India",
+      "city_name": "Delhi",
+      "population": "39034895",
+      "id": 2
+    }
+  ]
+}
